@@ -1,4 +1,4 @@
-#### Script to parse xlsx files: extracts observatios and variables names by selecting specific values of interest.
+#### Script to parse xlsx files: extracts observations and variables names by selecting specific values of interest.
 ### Output: creates csv files for each value of interested, such as: value==10, it will create csv files to store all variable and observation names with value==10.
 
 # load packages
